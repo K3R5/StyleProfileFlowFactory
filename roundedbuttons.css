@@ -1,1 +1,4 @@
-.theme-entry * { --button-rounding: 10px 0 10px 0; --button-font-family: "HelveticaNeue-Medium"; }
+.theme-entry * { 
+  --button-rounding: 10px 0 10px 0; 
+  --button-font-family: "HelveticaNeue-Medium"; 
+}
